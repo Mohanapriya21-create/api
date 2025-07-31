@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.desgin{
+    display: flex;
+    flex-wrap: wrap;
+}
